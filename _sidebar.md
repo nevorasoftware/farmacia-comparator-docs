@@ -1,0 +1,6 @@
+* [🏠 Inicio](README.md)
+* [🏛️ Arquitectura del Sistema](architecture.md)
+* [📊 Base de Datos y Modelo](database.md)
+* [🕷️ Especificación de Scrapers](scraping.md)
+* [🚀 Guía de Despliegue en Railway](deployment.md)
+* [🗄️ Guía Base de Datos](database/README.md)
